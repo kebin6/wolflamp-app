@@ -1,1 +1,0 @@
-import{aF as t}from"./index-DCYTMmCm.js";const n=e=>t.post({url:"/exchange",data:e}),a=e=>t.post({url:"/exchange/find",data:e}),o=e=>t.post({url:"/exchange/list",data:e}),r={1:"Completed"},c={1:"Pending processing",2:"Completed",3:"Failed"},i={1:"Pending processing",2:"Completed",3:"Failed"},d=10;export{o as a,r as b,a as c,i as d,n as e,d as r,c as w};
