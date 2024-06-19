@@ -1,1 +1,0 @@
-import{_ as s,b as c,i as o,aM as t}from"./index-D8l_vfLs.js";const a={},n={class:"card-cmp"};function r(e,_){return c(),o("section",n,[t(e.$slots,"default",{},void 0)])}const f=s(a,[["render",r],["__scopeId","data-v-670531f8"]]);export{f as C};
